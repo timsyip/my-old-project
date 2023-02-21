@@ -1,2 +1,3 @@
 # my-old-project
-This is what I'll talk about in Interviews
+
+I added the CSV, Powerpoint presentation and my sql code for the Olympic Assignments
